@@ -4,6 +4,8 @@ Box Model - Todo o CSS é em fomato de bloco/retangulo
 Padding - Preencimento
 Border - Borda
 Margin - Distancia entre os elementos
+Width - Tamanho do elemento na horizontal
+Height- Tamanho do elemento na horizontal
 
 ----> Unidades de Medida
 
@@ -19,6 +21,14 @@ Margin - Distancia entre os elementos
 * VH - Se refere a altura
 * EM - referencial ao elemento Pai
 * REM - Referencial ao elemento raiz
+
+- Display
+
+* Block - Dá ao elemento o comportamento de bloco. Pode modificar o padding, magin, weith e height.
+* Inline - Dá o comportamento de linha ao elemento. Não pode modificar o Height e Weith, apenas o padding e margin horizontalmente.
+* Inline-block - Dá o comportamento de linha e pode usar o height e weith.
+
+
 
 
 */

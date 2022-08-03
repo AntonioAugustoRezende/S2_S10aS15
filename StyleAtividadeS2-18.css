@@ -1,0 +1,18 @@
+.boxmain{
+    display: flex;
+        justify-content: space-between;
+    
+        width: 100%;
+        flex-wrap: nowrap;
+        align-items: center;
+}
+
+.boxitem{
+   width: 270px;
+   height: 230px;
+   background-color: #E1E1E1;
+   border-radius: 8px;
+   align-items: center;
+   border-bottom: ;
+   box-shadow: ;
+}
