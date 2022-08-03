@@ -1,0 +1,19 @@
+.cabecalho__menu{
+    text-align: center;
+}
+.cabecalho__menu li{
+    display: inline-block;
+    border: 2px solid black;
+    background-color: rgb(2, 0, 128);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: #FFF;
+    margin: 5px;
+    padding: 10px;
+    
+    font-size: 20px;
+
+}
+.cabecalho__menu a{
+
+}
